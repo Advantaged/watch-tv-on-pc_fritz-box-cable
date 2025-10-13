@@ -36,7 +36,7 @@ Your FRITZ!Box 6591 Cable has a built-in (four (4) channels) DVB-C tuner and can
 * After reboot, go to **DVB-C > Channel List**.
 * Click "Start Channel Search" to scan for available channels.
 * Once done, go to "Channel List" tab and click **"Generate Channel List"**.
-* Download the `.m3u` file (e.g., `tvhd.m3u`) to your CachyOS system.
+* Download the `.m3u` file (e.g., `tvhd.m3u`) to your operating-system/data-carrier.
 
 ### 3. Watch TV in VLC
 
