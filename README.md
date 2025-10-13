@@ -80,7 +80,7 @@ You can edit the `.m3u` file using a script or text editor to reorder channels a
 1. Make `sort-all-lists.sh` executable with command: `chmod +x sort-all-lists.sh` &…
 2. RUN `./sort-all-lists.sh`
 * This will execute the three scripts leaving your original & copied (`.m3u`) file/lists unchanged/untouched.
-* At this point you can use already the sorted lists in `vlc` &|| `kaffeine` like in **§ 3. & 4.** explained.
+* At this point you can use already the sorted lists in `vlc` &|| `kaffeine` like in **§ 3.** & **4.** explained.
 * FYI here the `sort-all-lists.sh` script:
 ```
 #!/bin/bash
