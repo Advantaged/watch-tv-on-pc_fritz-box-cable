@@ -125,9 +125,9 @@ esac
 ### 6. The manual mode, FYI
 * ✅ **Recommended: One-liner Bash Script**
 Since each channel entry has three lines:
-* 1. `#EXTINF:0,Channel Name`
-* 2. `#EXTVLCOPT:network-caching=1000`
-* 3. `rtsp://...`
+* 1. `#EXTINF:0,Channel Name`.
+* 2. `#EXTVLCOPT:network-caching=1000`.
+* 3. `rtsp://...` channel-address.
 * **FYI here as example the** `sort-radio-list.sh` **script**. All scripts are already present.
 ```
 #!/bin/bash
@@ -185,12 +185,9 @@ This:
 * Extracts the channel name (after comma) for sorting
 * Sorts case-insensitively (-f)
 * Reconstructs the full three-line entries &
-* Then add/check the header:
-```
-sed -i '1i#EXTM3U' sorted_radio.m3u
+* Then add/check the header: `sed -i '1i#EXTM3U' sorted_radio.m3u`.
 
-```
-Now your playlist is alphabetically sorted and fully functional.
+Now your playlist is alphabetically sorted and fully functional.❗️
 
 Replace `radio.m3u` with `tvhd.m3u` or `tvsd.m3u` as needed in the other two scripts.
 
