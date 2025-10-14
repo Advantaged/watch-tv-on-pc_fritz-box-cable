@@ -50,7 +50,7 @@ Your FRITZ!Box 6591 Cable has a built-in (four (4) channels) DVB-C tuner and can
 * Install Kaffeine with `sudo pacman -S --needed --noconfirm kaffeine`, for this you need to open your CLI/Terminal/`konsole`.
 * Open Kaffeine.
 * Go to **File > Open Network Stream**.
-* Enter the stream URL: `http://fritz.box:49000/dvbc.m3u` (or use the downloaded `.m3u` file).
+* Enter the stream URL: `http://fritz.box:49000/dvbc.m3u` or use the downloaded and/or (&||) sorted `.m3u` file-s.
 * Kaffeine will read the playlist and allow channel selection.
 > 🔔 Note: The FRITZ!Box acts as a DVB-C server (SAT>IP). Up to four different channels can be streamed simultaneously to different devices.
 
