@@ -3,7 +3,7 @@
 ## Instructions.md
 ### Notes:
 * These instruction are designed for everybody, from newbie to pro.
-* The provided `sort-xyz-list.sh` can be always used.
+* The provided scripts (`.sh`) can be always used, the provided `.m3u` can/must be replaced & the `.txt` are download-links for the `.m3u`-s.
 * A log-file will be produced in any case if using `sort-all-lists.sh`.
 * The original channel-lists from you modem/DFB-C_Tuner may vary.
 * It's not difficult if knowing the process-es, be just patient.
@@ -20,7 +20,7 @@
 1. Enable Live TV in FRITZ!Box
 2. Generate the Channel List
 3. Watch TV in VLC (how to).
-4. (Optional) Use Kaffeine from KDE/Plasma, (how to).
+4. (Optional) Use Kaffeine from KDE/Plasma to watch TV, (how to).
 5. Sorting channels alphabetically
 
 Your FRITZ!Box 6591 Cable has a built-in (four (4) channels) DVB-C tuner and can stream live TV over your network. Since you already have VLC &|| Kaffeine on Linux, follow these steps:
@@ -72,7 +72,7 @@ You can edit the `.m3u` file using a script or text editor to reorder channels a
 ### Notes:
 1. The original `.m3u` file/list are named by your Fritz-Box.
 2. At this point you can download `watch-tv-on-pc_fritz-box-cable` if not yet done from here.
-3. Copy your original `.m3u` file/list inside `watch-tv-on-pc_fritz-box-cable`🟰replace maybe obsolete `.m3u`s.
+3. Copy your original `.m3u` file/list inside `watch-tv-on-pc_fritz-box-cable`🟰replace maybe obsolete `.m3u`-s.
 * If you are in hurry &|| want avoid some "additional" manual work… 👇
 
 ### Time saving method:
@@ -119,8 +119,6 @@ case "${choice:-y}" in
     [Nn]) echo "Terminal remains open." ;;
     *) echo "Invalid input. Terminal remains open." ;;
 esac   
-
-
 
 ```
 
@@ -200,6 +198,3 @@ Replace `radio.m3u` with `tvhd.m3u` or `tvsd.m3u` as needed in the other two scr
 Save the script as `sort-radio-list.sh`, make it executable (`chmod +x sort-radio-list.sh`), and run (`./sort-radio-list.sh`) whenever you download a new `.m3u` from http://fritz.box/dvb/m3u/. Repeat the procedure for `sort-tvhd-list.sh` & `sort-tvsd-list.sh`.
 
 ✅  **Done** 👍 **& Enjoy**❗️
-
-
-
