@@ -1,0 +1,128 @@
+M3U Channel Sorting Log - 2025-10-15 07:18:14 CEST
+Input: radio.m3u
+Output directory: 2025-10-15_07-18-14_radio
+Titles directory: 2025-10-15_07-18-14_radio/titles
+========================================
+Found M3U header
+Processing channels...
+Created channel: Rock Antenne -> rock_antenne.channel
+Created channel: Radio Regenbogen -> radio_regenbogen.channel
+Created channel: ROCK FM -> rock_fm.channel
+Created channel: UNSERDING -> unserding.channel
+Created channel: AntenneSaar -> antennesaar.channel
+Created channel: WDR 2  Ostwestfalen/Lippe -> wdr_2__ostwestfalen_lippe.channel
+Created channel: Schwarzwaldradio -> schwarzwaldradio.channel
+Created channel: RPR1. -> rpr1..channel
+Created channel: ERF Plus -> erf_plus.channel
+Created channel: Radio Horeb -> radio_horeb.channel
+Created channel: sunshine live -> sunshine_live.channel
+Created channel: JAM FM -> jam_fm.channel
+Created channel: Radio Paloma -> radio_paloma.channel
+Created channel: RTL Radio -> rtl_radio.channel
+Created channel: 80s80s -> 80s80s.channel
+Created channel: Beats Radio -> beats_radio.channel
+Created channel: 90s90s -> 90s90s.channel
+Created channel: bigFM -> bigfm.channel
+Created channel: Oldie Antenne -> oldie_antenne.channel
+Created channel: RADIO BOLLERWAGEN -> radio_bollerwagen.channel
+Created channel: 3 in Ingolstadt -> 3_in_ingolstadt.channel
+Created channel: 089 Kult -> _089_kult.channel
+Created channel: 5 -> 5.channel
+Created channel: Schlager Radio -> _schlager_radio.channel
+Created channel: ANTENNE BAYERN -> _antenne_bayern.channel
+Created channel: Arabella Bayern -> _arabella_bayern.channel
+Created channel: Radio Charivari München -> radio_charivari_münchen.channel
+Created channel: egoFM -> _egofm.channel
+Created channel: RADIO BOB! -> _radio_bob_.channel
+Created channel: Radio Galaxy -> radio_galaxy.channel
+Created channel: 3 -> 3.channel
+Created channel: radio horeb / Feierwerk / Lora -> radio_horeb___feierwerk___lora.channel
+Created channel: 4 TOP FM -> 4_top_fm.channel
+Created channel: Arabella München -> arabella_münchen.channel
+Created channel: Radio Teddy -> _radio_teddy.channel
+Created channel: Energy München -> energy_münchen.channel
+Created channel: Klassik Radio -> klassik_radio.channel
+Created channel: Rock Antenne Bayern -> _rock_antenne_bayern.channel
+Created channel: MEGA Radio -> mega_radio.channel
+Created channel: FM4 -> _fm4.channel
+Created channel: Ö2 - Radio Salzburg -> _Ö2_-_radio_salzburg.channel
+Created channel: Österreich 1 -> _Österreich_1.channel
+Created channel: Osterreich 3 -> osterreich_3.channel
+Created channel: hr1 -> hr1.channel
+Created channel: hr2 -> hr2.channel
+Created channel: hr3 -> hr3.channel
+Created channel: hr4 -> hr4.channel
+Created channel: YOU FM -> you_fm.channel
+Created channel: hr INFO -> hr_info.channel
+Created channel: MDR SACHSEN DD -> mdr_sachsen_dd.channel
+Created channel: MDR S-ANHALT MD -> mdr_s-anhalt_md.channel
+Created channel: MDR THÜR Mitte-W -> mdr_thÜr_mitte-w.channel
+Created channel: MDR KULTUR -> mdr_kultur.channel
+Created channel: MDR JUMP -> mdr_jump.channel
+Created channel: MDR SPUTNIK -> mdr_sputnik.channel
+Created channel: MDR AKTUELL -> mdr_aktuell.channel
+Created channel: MDR KLASSIK -> mdr_klassik.channel
+Created channel: rbb24 Inforadio -> rbb24_inforadio.channel
+Created channel: radio3 -> radio3.channel
+Created channel: Antenne Brandenburg -> antenne_brandenburg.channel
+Created channel: rbb 88.8 -> rbb_88.8.channel
+Created channel: radioeins -> radioeins.channel
+Created channel: Fritz -> fritz.channel
+Created channel: SWR1 BW -> swr1_bw.channel
+Created channel: SWR1 RP -> swr1_rp.channel
+Created channel: SWR Kultur -> swr_kultur.channel
+Created channel: SWR3 -> swr3.channel
+Created channel: SWR4 BW -> swr4_bw.channel
+Created channel: SWR4 RP -> swr4_rp.channel
+Created channel: DASDING -> dasding.channel
+Created channel: SWR Aktuell -> swr_aktuell.channel
+Created channel: Bayern 1 -> bayern_1.channel
+Created channel: Bayern 2 -> bayern_2.channel
+Created channel: BAYERN 3 -> bayern_3.channel
+Created channel: BR-KLASSIK -> br-klassik.channel
+Created channel: BR24 -> br24.channel
+Created channel: BR24live -> br24live.channel
+Created channel: BR Schlager -> br_schlager.channel
+Created channel: PULS -> puls.channel
+Created channel: BR Heimat -> br_heimat.channel
+Created channel: NDR 2 NDS -> ndr_2_nds.channel
+Created channel: NDR Kultur -> ndr_kultur.channel
+Created channel: NDR Info NDS -> ndr_info_nds.channel
+Created channel: N-JOY -> n-joy.channel
+Created channel: 3 -> 3.channel
+Created channel: NDR 1 Welle Nord KI -> ndr_1_welle_nord_ki.channel
+Created channel: NDR 1 Radio MV SN -> ndr_1_radio_mv_sn.channel
+Created channel: NDR 1 Nieders. HAN -> ndr_1_nieders._han.channel
+Created channel: NDR Info Spezial -> ndr_info_spezial.channel
+Created channel: NDR Blue -> ndr_blue.channel
+Created channel: NDR Schlager -> ndr_schlager.channel
+Created channel: Bremen Eins -> bremen_eins.channel
+Created channel: Bremen Zwei -> bremen_zwei.channel
+Created channel: Bremen Vier -> bremen_vier.channel
+Created channel: Bremen NEXT -> bremen_next.channel
+Created channel: SR 1 Europawelle -> sr_1_europawelle.channel
+Created channel: SR kultur -> sr_kultur.channel
+Created channel: SR 3 Saarlandwelle -> sr_3_saarlandwelle.channel
+Created channel: 1LIVE -> 1live.channel
+Created channel: WDR 2 -> wdr_2.channel
+Created channel: WDR 3 -> wdr_3.channel
+Created channel: WDR 4 -> wdr_4.channel
+Created channel: WDR 5 -> wdr_5.channel
+Created channel: COSMO -> cosmo.channel
+Created channel: 1LIVE diGGi -> 1live_diggi.channel
+Created channel: Die Maus -> die_maus.channel
+Created channel: WDR Event -> wdr_event.channel
+Created 107 channel files, 0 incomplete chunks
+Sorting channels...
+
+=== PROCESSING COMPLETE ===
+Successfully created sorted file: 2025-10-15_07-18-14_radio/sorted_radio.m3u
+Total channels processed: 107
+Incomplete channels: 0
+Output directory: 2025-10-15_07-18-14_radio
+
+Files created:
+  - sorted_radio.m3u (sorted output)
+  - titles/ (directory with individual channel files)
+  - processing.log (detailed processing log)
+Completed: radio.m3u -> 2025-10-15_07-18-14_radio/sorted_radio.m3u (107 channels)

@@ -1,0 +1,85 @@
+M3U Channel Sorting Log - 2025-10-15 07:18:15 CEST
+Input: tvsd.m3u
+Output directory: 2025-10-15_07-18-15_tvsd
+Titles directory: 2025-10-15_07-18-15_tvsd/titles
+========================================
+Found M3U header
+Processing channels...
+Created channel: 3sat SD -> 3sat_sd.channel
+Created channel: KiKA SD -> kika_sd.channel
+Created channel: ZDF SD -> zdf_sd.channel
+Created channel: zdf_neo SD -> zdf_neo_sd.channel
+Created channel: ZDFinfo SD -> zdfinfo_sd.channel
+Created channel: ProSieben -> prosieben.channel
+Created channel: sixx -> sixx.channel
+Created channel: kabel eins -> kabel_eins.channel
+Created channel: Eurosport 1 -> eurosport_1.channel
+Created channel: WELT -> welt.channel
+Created channel: TELE 5 -> tele_5.channel
+Created channel: RTL -> rtl.channel
+Created channel: SAT.1 -> sat.1.channel
+Created channel: münchen.tv -> münchen.tv.channel
+Created channel: ANIXE+ -> anixe_.channel
+Created channel: TOGGO plus -> toggo_plus.channel
+Created channel: 1-2-3.tv -> 1-2-3.tv.channel
+Created channel: TLC -> tlc.channel
+Created channel: NITRO -> nitro.channel
+Created channel: ... -> ....channel
+Created channel: . -> ..channel
+Created channel: euronews -> euronews.channel
+Created channel: CNN (eng) -> cnn__eng_.channel
+Created channel: Juwelo TV -> juwelo_tv.channel
+Created channel: Channel21 -> channel21.channel
+Created channel: Hope TV -> hope_tv.channel
+Created channel: HSE Trend -> hse_trend.channel
+Created channel: BBC News (eng) -> bbc_news__eng_.channel
+Created channel: Shop LC -> shop_lc.channel
+Created channel: CNBC Europe (eng) -> cnbc_europe__eng_.channel
+Created channel: Spirit TV -> spirit_tv.channel
+Created channel: SAT.1 Gold -> sat.1_gold.channel
+Created channel: HSE EXTRA -> hse_extra.channel
+Created channel: ProSieben MAXX -> prosieben_maxx.channel
+Created channel: SONLife (eng) -> sonlife__eng_.channel
+Created channel: DMF -> dmf.channel
+Created channel: DELUXE MUSIC -> deluxe_music.channel
+Created channel: kabel eins Doku -> kabel_eins_doku.channel
+Created channel: Die neue Zeit TV -> die_neue_zeit_tv.channel
+Created channel: N24 Doku -> n24_doku.channel
+Created channel: K-TV -> k-tv.channel
+Created channel: CGTN -> cgtn.channel
+Created channel: DMAX -> dmax.channel
+Created channel: Comedy Central -> comedy_central.channel
+Created channel: VOXup -> voxup.channel
+Created channel: QVC -> qvc.channel
+Created channel: HSE -> hse.channel
+Created channel: Nick -> nick.channel
+Created channel: HOME & GARDEN TV -> home___garden_tv.channel
+Created channel: .... -> .....channel
+Created channel: Al Jazeera Int (eng) -> al_jazeera_int__eng_.channel
+Created channel: MTV -> mtv.channel
+Created channel: Disney Channel -> disney_channel.channel
+Created channel: sonnenklar.TV -> sonnenklar.tv.channel
+Created channel: Bibel TV -> bibel_tv.channel
+Created channel: RTLup -> rtlup.channel
+Created channel: Super RTL -> super_rtl.channel
+Created channel: RTLZWEI -> rtlzwei.channel
+Created channel: VOX -> vox.channel
+Created channel: ntv -> ntv.channel
+Created channel: SPORT1 -> sport1.channel
+Created channel: SCHLAGER DELUXE -> schlager_deluxe.channel
+Created channel: DOKUSAT -> dokusat.channel
+Created channel: ORF 2 -> orf_2.channel
+Created 64 channel files, 0 incomplete chunks
+Sorting channels...
+
+=== PROCESSING COMPLETE ===
+Successfully created sorted file: 2025-10-15_07-18-15_tvsd/sorted_tvsd.m3u
+Total channels processed: 64
+Incomplete channels: 0
+Output directory: 2025-10-15_07-18-15_tvsd
+
+Files created:
+  - sorted_tvsd.m3u (sorted output)
+  - titles/ (directory with individual channel files)
+  - processing.log (detailed processing log)
+Completed: tvsd.m3u -> 2025-10-15_07-18-15_tvsd/sorted_tvsd.m3u (64 channels)

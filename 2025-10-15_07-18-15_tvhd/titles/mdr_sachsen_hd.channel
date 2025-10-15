@@ -1,0 +1,3 @@
+#EXTINF:0,MDR Sachsen HD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5320,5321,2171,2870,2876,5322,5323,5324,5325,5327

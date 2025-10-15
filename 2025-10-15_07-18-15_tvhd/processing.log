@@ -1,0 +1,52 @@
+M3U Channel Sorting Log - 2025-10-15 07:18:15 CEST
+Input: tvhd.m3u
+Output directory: 2025-10-15_07-18-15_tvhd
+Titles directory: 2025-10-15_07-18-15_tvhd/titles
+========================================
+Found M3U header
+Processing channels...
+Created channel: BR Süd HD -> br_süd_hd.channel
+Created channel: NDR FS NDS HD -> ndr_fs_nds_hd.channel
+Created channel: MDR Sachsen HD -> mdr_sachsen_hd.channel
+Created channel: Das Erste HD -> das_erste_hd.channel
+Created channel: SWR RP HD -> swr_rp_hd.channel
+Created channel: WDR HD Köln -> wdr_hd_köln.channel
+Created channel: münchen.tv HD -> münchen.tv_hd.channel
+Created channel: ZDF HD -> zdf_hd.channel
+Created channel: rbb Berlin HD -> rbb_berlin_hd.channel
+Created channel: ZDFinfo HD -> zdfinfo_hd.channel
+Created channel: tagesschau24 HD -> tagesschau24_hd.channel
+Created channel: ARD alpha HD -> ard_alpha_hd.channel
+Created channel: SR Fernsehen HD -> sr_fernsehen_hd.channel
+Created channel: QVC2 HD -> qvc2_hd.channel
+Created channel: QVC Style HD -> qvc_style_hd.channel
+Created channel: 1-2-3.tv HD -> 1-2-3.tv_hd.channel
+Created channel: ONE HD -> one_hd.channel
+Created channel: HSE Extra HD -> hse_extra_hd.channel
+Created channel: sonnenklar.TV HD -> sonnenklar.tv_hd.channel
+Created channel: arte HD -> arte_hd.channel
+Created channel: hr-fernsehen HD -> hr-fernsehen_hd.channel
+Created channel: Shop LC HD -> shop_lc_hd.channel
+Created channel: KiKA HD -> kika_hd.channel
+Created channel: zdf_neo HD -> zdf_neo_hd.channel
+Created channel: PHOENIX HD -> phoenix_hd.channel
+Created channel: ..... -> ......channel
+Created channel: Channel 21 HD -> channel_21_hd.channel
+Created channel: DF1 HD -> df1_hd.channel
+Created channel: HSE HD -> hse_hd.channel
+Created channel: QVC HD -> qvc_hd.channel
+Created channel: 3sat HD -> 3sat_hd.channel
+Created 31 channel files, 0 incomplete chunks
+Sorting channels...
+
+=== PROCESSING COMPLETE ===
+Successfully created sorted file: 2025-10-15_07-18-15_tvhd/sorted_tvhd.m3u
+Total channels processed: 31
+Incomplete channels: 0
+Output directory: 2025-10-15_07-18-15_tvhd
+
+Files created:
+  - sorted_tvhd.m3u (sorted output)
+  - titles/ (directory with individual channel files)
+  - processing.log (detailed processing log)
+Completed: tvhd.m3u -> 2025-10-15_07-18-15_tvhd/sorted_tvhd.m3u (31 channels)
