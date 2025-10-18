@@ -1,0 +1,183 @@
+Merge Log - 2025-10-18 13:10:35 CEST
+COPIED HD: 1-2-3.tv_hd.channel to staging
+COPIED HD: 3sat_hd.channel to staging
+COPIED HD: ard_alpha_hd.channel to staging
+COPIED HD: arte_hd.channel to staging
+COPIED HD: br_süd_hd.channel to staging
+COPIED HD: channel_21_hd.channel to staging
+COPIED HD: das_erste_hd.channel to staging
+COPIED HD: df1_hd.channel to staging
+COPIED HD: hr-fernsehen_hd.channel to staging
+COPIED HD: hse_extra_hd.channel to staging
+COPIED HD: hse_hd.channel to staging
+COPIED HD: kika_hd.channel to staging
+COPIED HD: mdr_sachsen_hd.channel to staging
+COPIED HD: münchen.tv_hd.channel to staging
+COPIED HD: ndr_fs_nds_hd.channel to staging
+COPIED HD: one_hd.channel to staging
+COPIED HD: phoenix_hd.channel to staging
+COPIED HD: qvc2_hd.channel to staging
+COPIED HD: qvc_hd.channel to staging
+COPIED HD: qvc_style_hd.channel to staging
+COPIED HD: rbb_berlin_hd.channel to staging
+COPIED HD: shop_lc_hd.channel to staging
+COPIED HD: sonnenklar.tv_hd.channel to staging
+COPIED HD: sr_fernsehen_hd.channel to staging
+COPIED HD: swr_rp_hd.channel to staging
+COPIED HD: tagesschau24_hd.channel to staging
+COPIED HD: wdr_hd_köln.channel to staging
+COPIED HD: zdf_hd.channel to staging
+COPIED HD: zdfinfo_hd.channel to staging
+COPIED HD: zdf_neo_hd.channel to staging
+COPIED SD: 1-2-3.tv.channel to staging
+COPIED SD: 3sat_sd.channel to staging
+COPIED SD: al_jazeera_int__eng_.channel to staging
+COPIED SD: anixe_.channel to staging
+COPIED SD: bbc_news__eng_.channel to staging
+COPIED SD: bibel_tv.channel to staging
+COPIED SD: cgtn.channel to staging
+COPIED SD: channel21.channel to staging
+COPIED SD: cnbc_europe__eng_.channel to staging
+COPIED SD: cnn__eng_.channel to staging
+COPIED SD: comedy_central.channel to staging
+COPIED SD: deluxe_music.channel to staging
+COPIED SD: die_neue_zeit_tv.channel to staging
+COPIED SD: disney_channel.channel to staging
+COPIED SD: dmax.channel to staging
+COPIED SD: dmf.channel to staging
+COPIED SD: dokusat.channel to staging
+COPIED SD: euronews.channel to staging
+COPIED SD: eurosport_1.channel to staging
+COPIED SD: home___garden_tv.channel to staging
+COPIED SD: hope_tv.channel to staging
+COPIED SD: hse.channel to staging
+COPIED SD: hse_extra.channel to staging
+COPIED SD: hse_trend.channel to staging
+COPIED SD: juwelo_tv.channel to staging
+COPIED SD: kabel_eins.channel to staging
+COPIED SD: kabel_eins_doku.channel to staging
+COPIED SD: kika_sd.channel to staging
+COPIED SD: k-tv.channel to staging
+COPIED SD: mtv.channel to staging
+COPIED SD: münchen.tv.channel to staging
+COPIED SD: n24_doku.channel to staging
+COPIED SD: nick.channel to staging
+COPIED SD: nitro.channel to staging
+COPIED SD: ntv.channel to staging
+COPIED SD: orf_2.channel to staging
+COPIED SD: prosieben.channel to staging
+COPIED SD: prosieben_maxx.channel to staging
+COPIED SD: qvc.channel to staging
+COPIED SD: rtl.channel to staging
+COPIED SD: rtlup.channel to staging
+COPIED SD: rtlzwei.channel to staging
+COPIED SD: sat.1.channel to staging
+COPIED SD: sat.1_gold.channel to staging
+COPIED SD: schlager_deluxe.channel to staging
+COPIED SD: shop_lc.channel to staging
+COPIED SD: sixx.channel to staging
+COPIED SD: sonlife__eng_.channel to staging
+COPIED SD: sonnenklar.tv.channel to staging
+COPIED SD: spirit_tv.channel to staging
+COPIED SD: sport1.channel to staging
+COPIED SD: super_rtl.channel to staging
+COPIED SD: tele_5.channel to staging
+COPIED SD: tlc.channel to staging
+COPIED SD: toggo_plus.channel to staging
+COPIED SD: vox.channel to staging
+COPIED SD: voxup.channel to staging
+COPIED SD: welt.channel to staging
+COPIED SD: zdfinfo_sd.channel to staging
+COPIED SD: zdf_neo_sd.channel to staging
+COPIED SD: zdf_sd.channel to staging
+HD TO TITLES: 1-2-3.tv_hd.channel
+HD TO TITLES: 3sat_hd.channel
+HD TO TITLES: ard_alpha_hd.channel
+HD TO TITLES: arte_hd.channel
+HD TO TITLES: br_süd_hd.channel
+HD TO TITLES: channel_21_hd.channel
+HD TO TITLES: das_erste_hd.channel
+HD TO TITLES: df1_hd.channel
+HD TO TITLES: hr-fernsehen_hd.channel
+HD TO TITLES: hse_extra_hd.channel
+HD TO TITLES: hse_hd.channel
+HD TO TITLES: kika_hd.channel
+HD TO TITLES: mdr_sachsen_hd.channel
+HD TO TITLES: münchen.tv_hd.channel
+HD TO TITLES: ndr_fs_nds_hd.channel
+HD TO TITLES: one_hd.channel
+HD TO TITLES: phoenix_hd.channel
+HD TO TITLES: qvc2_hd.channel
+HD TO TITLES: qvc_hd.channel
+HD TO TITLES: qvc_style_hd.channel
+HD TO TITLES: rbb_berlin_hd.channel
+HD TO TITLES: shop_lc_hd.channel
+HD TO TITLES: sonnenklar.tv_hd.channel
+HD TO TITLES: sr_fernsehen_hd.channel
+HD TO TITLES: swr_rp_hd.channel
+HD TO TITLES: tagesschau24_hd.channel
+HD TO TITLES: zdf_hd.channel
+HD TO TITLES: zdfinfo_hd.channel
+HD TO TITLES: zdf_neo_hd.channel
+DUPLICATE SD: 1-2-3.tv.channel -> duplicates (HD exists)
+DUPLICATE SD: 3sat_sd.channel -> duplicates (HD exists)
+UNIQUE SD: al_jazeera_int__eng_.channel -> titles
+UNIQUE SD: anixe_.channel -> titles
+UNIQUE SD: bbc_news__eng_.channel -> titles
+UNIQUE SD: bibel_tv.channel -> titles
+UNIQUE SD: cgtn.channel -> titles
+UNIQUE SD: channel21.channel -> titles
+UNIQUE SD: cnbc_europe__eng_.channel -> titles
+UNIQUE SD: cnn__eng_.channel -> titles
+UNIQUE SD: comedy_central.channel -> titles
+UNIQUE SD: deluxe_music.channel -> titles
+UNIQUE SD: die_neue_zeit_tv.channel -> titles
+UNIQUE SD: disney_channel.channel -> titles
+UNIQUE SD: dmax.channel -> titles
+UNIQUE SD: dmf.channel -> titles
+UNIQUE SD: dokusat.channel -> titles
+UNIQUE SD: euronews.channel -> titles
+UNIQUE SD: eurosport_1.channel -> titles
+UNIQUE SD: home___garden_tv.channel -> titles
+UNIQUE SD: hope_tv.channel -> titles
+DUPLICATE SD: hse.channel -> duplicates (HD exists)
+DUPLICATE SD: hse_extra.channel -> duplicates (HD exists)
+UNIQUE SD: hse_trend.channel -> titles
+UNIQUE SD: juwelo_tv.channel -> titles
+UNIQUE SD: kabel_eins.channel -> titles
+UNIQUE SD: kabel_eins_doku.channel -> titles
+DUPLICATE SD: kika_sd.channel -> duplicates (HD exists)
+UNIQUE SD: k-tv.channel -> titles
+UNIQUE SD: mtv.channel -> titles
+DUPLICATE SD: münchen.tv.channel -> duplicates (HD exists)
+UNIQUE SD: n24_doku.channel -> titles
+UNIQUE SD: nick.channel -> titles
+UNIQUE SD: nitro.channel -> titles
+UNIQUE SD: ntv.channel -> titles
+UNIQUE SD: orf_2.channel -> titles
+UNIQUE SD: prosieben.channel -> titles
+UNIQUE SD: prosieben_maxx.channel -> titles
+DUPLICATE SD: qvc.channel -> duplicates (HD exists)
+UNIQUE SD: rtl.channel -> titles
+UNIQUE SD: rtlup.channel -> titles
+UNIQUE SD: rtlzwei.channel -> titles
+UNIQUE SD: sat.1.channel -> titles
+UNIQUE SD: sat.1_gold.channel -> titles
+UNIQUE SD: schlager_deluxe.channel -> titles
+DUPLICATE SD: shop_lc.channel -> duplicates (HD exists)
+UNIQUE SD: sixx.channel -> titles
+UNIQUE SD: sonlife__eng_.channel -> titles
+DUPLICATE SD: sonnenklar.tv.channel -> duplicates (HD exists)
+UNIQUE SD: spirit_tv.channel -> titles
+UNIQUE SD: sport1.channel -> titles
+UNIQUE SD: super_rtl.channel -> titles
+UNIQUE SD: tele_5.channel -> titles
+UNIQUE SD: tlc.channel -> titles
+UNIQUE SD: toggo_plus.channel -> titles
+UNIQUE SD: vox.channel -> titles
+UNIQUE SD: voxup.channel -> titles
+UNIQUE SD: wdr_hd_köln.channel -> titles
+UNIQUE SD: welt.channel -> titles
+DUPLICATE SD: zdfinfo_sd.channel -> duplicates (HD exists)
+DUPLICATE SD: zdf_neo_sd.channel -> duplicates (HD exists)
+DUPLICATE SD: zdf_sd.channel -> duplicates (HD exists)
