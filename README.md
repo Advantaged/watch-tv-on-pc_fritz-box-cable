@@ -140,12 +140,35 @@ All files processed!
 
 * Whenever you want download new `.m3u`-s from http://fritz.box/dvb/m3u/, backup the old in timestamped folder or overwrite the old original list with the new-s or delete the old source-list. When the new playlists are downloaded, just execute again `./sort-m3u.sh radio tvhd tvsd` to get them all sorted & stored in timestamped folder.
 
-### 4. Watch TV in VLC
+### 4. Additional Features / Scripts (Merge & Select)
+1. Merging `tvhd` & part of `tvsd`:
+* How it works: The `merge-m3u.sh` script take all `tvhd`- & add all `tvsd`-channles that are not present in the `tvhd`. This mean that this script eliminate all `tvsd` duplicate.
+* How to use it: `./merge-m3u.sh 2025-10-15_07-18-15_tvhd 2025-10-15_07-18-15_tvsd` & create a `merged-tv.m3u` inside a new folder.
+* Why this script: This script converge all TV-channels in a plylist without SD-channels-duplicate.
+2. Make a Playlist from selected Channels:
+* How it works: The `select-m3u.sh` script take a Sub-Folder names `selected` containing all `.channel`-files & create a Playlist `selected-tv.m3u`.
+* (my) Folder-Structure (as example), the new created `selected-tv.m3u` will be issued inside "timestamped_selected":
+```
+2025-10-15_07-18-15_selected/
+├── merged/
+├── rejected/
+├── selected/
+└── selected-tv.m3u
+```
+* How to use it:  `./select-m3u.sh 2025-10-15_07-18-15_selected`
+* Why this script: Some channels don't correspond the taste of user or family.
+* Practical use:
+  * Create timestamped-folder with subfolders & copy merged-channels inside subfolders `merged/` & `selected/`.
+  * Start `vlc`, than hit [CTRL + L] to open playlist-view, than hit [CTRL + O] to load `merged-tv.m3u` playlist.
+  * Now click on the channel you want to play, if you don't like the channel… just **move** it from `selected/` to `rejected/`.
+  * When you chosen all channels you want to hold… just hit/type the command producing your personal playlist `selected-tv.m3u`.
+
+### 5. Watch TV in VLC
 
 * Install VLC with `sudo pacman -S --needed --noconfirm vlc`, for this you need to open your CLI/Terminal/`konsole`.
 * Further information, tricks, settings & troubleshooting in additional linked file [Using M3U Channel Lists in VLC and Kaffeine](Using-M3U-Channel-Lists-in-VLC-and-Kaffeine.md).
 
-### 5. Use (optionally) Kaffeine (KDE/Plasma)
+### 6. Use (optionally) Kaffeine (KDE/Plasma)
 
 * Install Kaffeine with `sudo pacman -S --needed --noconfirm kaffeine`, for this you need to open your CLI/Terminal/`konsole`.
 * Further information, tricks, settings & troubleshooting in additional linked file [Using M3U Channel Lists in VLC and Kaffeine](Using-M3U-Channel-Lists-in-VLC-and-Kaffeine.md).
