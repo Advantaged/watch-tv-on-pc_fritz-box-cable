@@ -1,8 +1,6 @@
 # watch-tv-on-pc_fritz-box-cable
 ## Instructions.md
 
-* **Merit to:** [DeepSeek](https://chat.deepseek.com/)
-
 ### Notes:
 * These instruction & software (script) are designed for everybody, from newbie to pro.
 * Don't be scared from long text/explanation, finally is just a question of downloading the script, activate & use it as described.
@@ -172,6 +170,11 @@ All files processed!
 
 * Install Kaffeine with `sudo pacman -S --needed --noconfirm kaffeine`, for this you need to open your CLI/Terminal/`konsole`.
 * Further information, tricks, settings & troubleshooting in additional linked file [Using M3U Channel Lists in VLC and Kaffeine](Using-M3U-Channel-Lists-in-VLC-and-Kaffeine.md).
+
+* **Merit to:** [Gemini AI](https://gemini.google.com/)
+* **License:** CC0 1.0 Universal
+
+✅ **Done & Enjoy** ❗️
 
 
 ✅  **Done** 👍 **& Enjoy**❗️
