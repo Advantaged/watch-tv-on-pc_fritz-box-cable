@@ -170,6 +170,7 @@ All files processed!
 
 * Install Kaffeine with `sudo pacman -S --needed --noconfirm kaffeine`, for this you need to open your CLI/Terminal/`konsole`.
 * Further information, tricks, settings & troubleshooting in additional linked file [Using M3U Channel Lists in VLC and Kaffeine](Using-M3U-Channel-Lists-in-VLC-and-Kaffeine.md).
+---
 
 * **Merit to:** [Gemini AI](https://gemini.google.com/)
 * **License:** CC0 1.0 Universal
