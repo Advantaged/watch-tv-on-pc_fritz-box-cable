@@ -174,7 +174,4 @@ All files processed!
 * **Merit to:** [Gemini AI](https://gemini.google.com/)
 * **License:** CC0 1.0 Universal
 
-✅ **Done & Enjoy** ❗️
-
-
 ✅  **Done** 👍 **& Enjoy**❗️
